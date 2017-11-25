@@ -1,0 +1,4 @@
+/home/chy/下载/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chy/Project/C++/Algorithm/Algorithm/DivideAndConquer/Fibonacci
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chy/Project/C++/Algorithm/Algorithm/DivideAndConquer/Fibonacci/cmake-build-debug
